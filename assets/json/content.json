@@ -4,7 +4,7 @@
       "homepage": {
         "header": {
           "content": {
-            "header": "test Title",
+            "header": "Header Title",
             "description": "This will be rendered in a wysiwyg field due to the key and schema"
           }
         },
