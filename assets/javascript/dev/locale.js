@@ -1,5 +1,5 @@
 $(function(){
-    var url = '/gh-cms-starter-template/assets/json/content.bin';
+    var url = './assets/json/content.bin';
     var $body = $("body");
 
     $.ajax({
